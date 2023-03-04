@@ -1,4 +1,3 @@
-google-site-verification: googlebce50d9d73a76a78.html
 <div align="center">
   <img width=55% src="https://i.imgur.com/8MupZHY.gif" />
 </div>
