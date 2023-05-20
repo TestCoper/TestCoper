@@ -8,33 +8,31 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/testcoper)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A1-blue)](https://github.com/testcoper)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=testcoper&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/hootanht/testcoper?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/testcoper/testcoper?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-- 💡 Currently working on a few Web Projects
-- 📚 Learning everything Web Development, Mobile Development, Machine Learning, ... 
+- 💡 Currently working on a few AI Projects
+- 📚 Learning everything Web Development, Reverse Engineering, Machine Learning, ... 
 - 🎮 Play game for habits 😉
 - 💬 Feel free to reach out, happy to help
 
 ## 🛠️ Languages & Tools
 #### Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![python](https://img.shields.io/badge/-python-0096fa?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=for-the-badge&logo=&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Frameworks, Platforms and Libraries
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![django](https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![nodejs](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![tensorflow](https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 #### Databases
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -50,12 +48,14 @@
 #### IDEs/Editors
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![pycharm](https://img.shields.io/badge/-pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
 
@@ -92,5 +92,4 @@
   <img src="https://img.shields.io/badge/-DISCORD-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />
  </a>
   <br />
-<!--   <a href="https://stackoverflow.com/users/10358773/hootanht"><img src="https://stackoverflow.com/users/flair/10358773.png?theme=dark" width="208" height="58" alt="profile for HootanHT at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for HootanHT at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 </p>
