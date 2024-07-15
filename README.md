@@ -49,6 +49,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![pycharm](https://img.shields.io/badge/-pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+[![streak](https://codeium.com/badges/v2/user/cautiously-pretty-sheep-10070/streak)](https://codeium.com/profile/cautiously-pretty-sheep-10070)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
